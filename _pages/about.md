@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ProjectD
+title: HireDietician
 permalink: /about
 comments: true
 ---
